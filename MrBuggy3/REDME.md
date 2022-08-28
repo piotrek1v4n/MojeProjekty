@@ -1,1 +1,1 @@
--   [MrBuggy3 Specyfikacja]([http://mrbuggy.pl/mrbuggy3/dfiles/Specyfikacja_Mr_Buggy_3.pdf])
+-   [MrBuggy3 Specyfikacja](http://mrbuggy.pl/mrbuggy3/dfiles/Specyfikacja_Mr_Buggy_3.pdf)
