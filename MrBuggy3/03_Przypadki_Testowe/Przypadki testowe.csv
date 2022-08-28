@@ -63,7 +63,5 @@ TCID,ID wymagania,Tytuł,Warunki wstępne,ID Kroku,Opis kroku,Oczekiwany rezulta
 15,,Pole “Nr zadania” - podaje numer zadania wyświetlonego w oknie “Zadania”,Jako zalogowany użytkownik aplikacji MyBuggy,1,"klikam zadanie numer 1 z listy zadań i obserwuje pole ""Nr zadania""","w polu Zadanie wyświetla się pierwsze zadanie oraz w polu ""Nr zadania"" wyświetla się treść ""Zadanie 1"""
 ,,,,2,"klikam zadanie numer 3 z listy zadań i obserwuje pole ""Nr zadania""","w polu Zadanie wyświetla się trzecie zadanie oraz w polu ""Nr zadania"" wyświetla się treść ""Zadanie 3"""
 ,,,,3,"klikam ponownie zadanie numer 1 z listy zadań  i obserwuje pole ""Nr zadania""","w polu Zadanie wywietla się ponownie zadanie pierwsze oraz w polu ""Nr zadania"" wyswietla się treść ""Zadanie 1"""
-16,,Pole “Opis problemu” - zawiera ogólną informację na temat zadania wyświetlonego w polu “Zadania” wraz z ilością punktów za dane zadanie,1. Aplikacja Mr.Buggy 3 jest uruchomiona.,1,"Porównaj pole ""Opis problemu"" z polem ""Zadania"" weryfikując czy informacja jest dopasowana do wyświetlanego zadania.","Pole ""Opis problemu"" zawiera informację dopasowaną do wyświetlanego zadania w polu ""Zadania""."
-,,,2. Pojedyncze zadanie z Listy zadań jest aktywne.,2,Sprawdź czy została wyświetlona punktacja.,"Pole ""Opis problemu"" zawiera punktację."
-17,,Sprawdzenie pamięci operacyjnej aplikacji (100MB),Dostęp do komputera,1,Uruchamiam Aplikację,Aplikacja otwiera się poprawnie
+16,,Sprawdzenie pamięci operacyjnej aplikacji (100MB),Dostęp do komputera,1,Uruchamiam Aplikację,Aplikacja otwiera się poprawnie
 ,,,Dostęp do aplikacji MrBuggy 3,2,Sprawdzam właściwości aplikacji,Aplikacja nie zajmuje więcej niż 100MB
